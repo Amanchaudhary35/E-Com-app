@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/E-Com-app/static/css/main.685312c3.css",
-    "main.js": "/E-Com-app/static/js/main.1f9bfc11.js",
+    "main.js": "/E-Com-app/static/js/main.47a446ea.js",
     "static/media/hero-banner.png": "/E-Com-app/static/media/hero-banner.908a70d7a1dc5d31bc9f.png",
     "static/media/offer2.png": "/E-Com-app/static/media/offer2.18f41c91a20f50518f5f.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/E-Com-app/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -64,10 +64,10 @@
     "static/media/coupon.svg": "/E-Com-app/static/media/coupon.a2e0ecc25bd5f82bc9c8da432255a6eb.svg",
     "static/media/facebook.webp": "/E-Com-app/static/media/facebook.98bcaa8d11ce4ee93097.webp",
     "main.685312c3.css.map": "/E-Com-app/static/css/main.685312c3.css.map",
-    "main.1f9bfc11.js.map": "/E-Com-app/static/js/main.1f9bfc11.js.map"
+    "main.47a446ea.js.map": "/E-Com-app/static/js/main.47a446ea.js.map"
   },
   "entrypoints": [
     "static/css/main.685312c3.css",
-    "static/js/main.1f9bfc11.js"
+    "static/js/main.47a446ea.js"
   ]
 }
