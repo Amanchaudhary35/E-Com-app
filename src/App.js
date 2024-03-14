@@ -18,7 +18,7 @@ function App() {
         <Navbar />
         <Routes>
           <Route path='/' index element={<Home />} />
-          <Route path='/E-Com-app' element={<Home />} />
+          <Route path='/E-Com-app/' element={<Home />} />
           <Route path='/men' element={<HomeCategory banner={men_banner} category="men" />} />
           <Route path='/women' element={<HomeCategory banner={women_banner} category="women" />} />
           <Route path='/kids' element={<HomeCategory banner={kids_banner} category="kid" />} />
