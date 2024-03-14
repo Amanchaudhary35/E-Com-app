@@ -1,5 +1,5 @@
 {
-  "homepage": "http://ankiitm2.github.io/Ecommerce",
+  "homepage": "http://Amanchaudhary35.github.io/E-Com-app",
   "name": "ecommerce",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +17,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "dev": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
