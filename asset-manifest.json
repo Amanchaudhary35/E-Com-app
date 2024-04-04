@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/E-Com-app/static/css/main.685312c3.css",
-    "main.js": "/E-Com-app/static/js/main.3e0e8177.js",
+    "main.css": "/E-Com-app/static/css/main.9b51d94c.css",
+    "main.js": "/E-Com-app/static/js/main.d506622d.js",
     "static/media/hero-banner.png": "/E-Com-app/static/media/hero-banner.908a70d7a1dc5d31bc9f.png",
     "static/media/offer2.png": "/E-Com-app/static/media/offer2.18f41c91a20f50518f5f.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/E-Com-app/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/offer1.png": "/E-Com-app/static/media/offer1.e310fe933a36c4d7e1e4.png",
     "static/media/product_9.png": "/E-Com-app/static/media/product_9.c801212aa3bed83e7572.png",
-    "static/media/bg-extra.jpeg": "/E-Com-app/static/media/bg-extra.fc7585c96ed1be49b576.jpeg",
     "static/media/product_8.png": "/E-Com-app/static/media/product_8.2cf4747c23b5e634072c.png",
     "static/media/product_5.png": "/E-Com-app/static/media/product_5.437deb074cfe97900c5e.png",
     "static/media/money.png": "/E-Com-app/static/media/money.c027762b272e3b32a2dc.png",
@@ -63,11 +62,11 @@
     "index.html": "/E-Com-app/index.html",
     "static/media/coupon.svg": "/E-Com-app/static/media/coupon.a2e0ecc25bd5f82bc9c8da432255a6eb.svg",
     "static/media/facebook.webp": "/E-Com-app/static/media/facebook.98bcaa8d11ce4ee93097.webp",
-    "main.685312c3.css.map": "/E-Com-app/static/css/main.685312c3.css.map",
-    "main.3e0e8177.js.map": "/E-Com-app/static/js/main.3e0e8177.js.map"
+    "main.9b51d94c.css.map": "/E-Com-app/static/css/main.9b51d94c.css.map",
+    "main.d506622d.js.map": "/E-Com-app/static/js/main.d506622d.js.map"
   },
   "entrypoints": [
-    "static/css/main.685312c3.css",
-    "static/js/main.3e0e8177.js"
+    "static/css/main.9b51d94c.css",
+    "static/js/main.d506622d.js"
   ]
 }
