@@ -1,6 +1,5 @@
-import './App.css';
-import Navbar from './components/Navbar';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Navbar from './components/Navbar';
 import Home from './Pages/Home';
 import HomeCategory from './Pages/HomeCategory';
 import Product from './Pages/Product';
@@ -17,14 +16,12 @@ function App() {
       <BrowserRouter>
         <Navbar />
         <Routes>
-          <Route path='/' index element={<Home />} />
+          <Route path='/' element={<Home />} />
           <Route path='/E-Com-app/' element={<Home />} />
           <Route path='/men' element={<HomeCategory banner={men_banner} category="men" />} />
           <Route path='/women' element={<HomeCategory banner={women_banner} category="women" />} />
           <Route path='/kids' element={<HomeCategory banner={kids_banner} category="kid" />} />
-          <Route path='/product' element={<Product />} >
-            <Route path=':productId' element={<Product />} />
-          </Route>
+          <Route path='/product/:productId' element={<Product />} />
           <Route path='/cart' element={<Cart />} />
           <Route path='/loginSignup' element={<LoginSignUp />} />
         </Routes>
@@ -35,3 +32,4 @@ function App() {
 }
 
 export default App;
+
